@@ -1,6 +1,8 @@
 codex
 =====
 
+[![Build Status](https://travis-ci.com/ekmett/codex.svg?branch=master)](https://travis-ci.com/ekmett/codex)
+
 This repo acts as a monorepo holding a bunch of related libraries for graphics and font manipulation in Haskell.
 
 The end goal is to assemble all of this into a nice GUI/editor layer for coda, but you can enjoy the incremental

@@ -27,8 +27,8 @@ source-repository-package
 
 source-repository-package
   type: git
-  location: https://github.com/haskell-vanguard/integer-logarithms.git
-  tag: 9a7d1742be1d062445f545366b669a9eb586e5fd
+  location: https://github.com/Bodigrim/integer-logarithms.git
+  tag: 1e64456f35a2d82012a477a70cd8216312422ba0
 
 source-repository-package
   type: git
